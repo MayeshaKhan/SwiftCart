@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\bin\Debug\DAL.dll
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\bin\Debug\DAL.pdb
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.dll
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.pdb
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\bin\Debug\DAL.dll.config
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.Migrations.initDB.resources
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.Migrations.data.resources
