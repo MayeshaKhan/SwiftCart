@@ -19,5 +19,15 @@ namespace DAL
         {
             return new BranchRepo();
         }
+
+        public static IRepo<Category, int, bool> CategoryData()
+        {
+            return new CategoryRepo();
+        }
+        public static IRepo<Product, int, bool> ProductData()
+        {
+            return new ProductRepo();
+        }
+
     }
 }

@@ -54,6 +54,13 @@
     <Compile Include="DataFactory.cs" />
     <Compile Include="EF\Models\Agent.cs" />
     <Compile Include="EF\Models\Branch.cs" />
+    <Compile Include="EF\Models\BranchProduct.cs" />
+    <Compile Include="EF\Models\Category.cs" />
+    <Compile Include="EF\Models\Customer.cs" />
+    <Compile Include="EF\Models\Order.cs" />
+    <Compile Include="EF\Models\Product.cs" />
+    <Compile Include="EF\Models\ProductOrder.cs" />
+    <Compile Include="EF\Models\Seller.cs" />
     <Compile Include="EF\SwiftCartContext.cs" />
     <Compile Include="Interfaces\IRepo.cs" />
     <Compile Include="Migrations\202404261646354_initDB.cs" />

@@ -8,13 +8,20 @@ using System.Threading.Tasks;
 
 namespace DAL.EF.Models
 {
-    public class Agent
+    public class BranchProduct
     {
         public int Id { get; set; }
         [Required]
-        public string Name { get; set; }
+        public int Quantity { get; set; }
+
         [ForeignKey("Branch")]
-        public int BId { get; set; }
-        public virtual Branch Branch{ get; set; }
+        public int Branch_Id { get; set; }
+        public virtual Branch Branch { get; set; }
+        
+        [ForeignKey("Product")]
+        public int Product_Id { get; set; }
+        public virtual Product Product { get; set; }
+
+
     }
 }

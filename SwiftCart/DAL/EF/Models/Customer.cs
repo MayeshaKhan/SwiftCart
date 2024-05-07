@@ -7,17 +7,23 @@ using System.Threading.Tasks;
 
 namespace DAL.EF.Models
 {
-    public class Branch
+    public class Customer
     {
         public int Id { get; set; }
         [Required]
         public string Name { get; set; }
-        public virtual List<Agent> Agents { get; set; }
-        public virtual List<Product> Products { get; set; }
-        public Branch()
+        [Required]
+        public string Username { get; set; }
+        [Required]
+        public string Password { get; set; }
+
+        public virtual List<Order> Orders { get; set; }
+
+
+        
+        public Customer()
         {
-            Agents = new List<Agent>();
-            Products = new List<Product>();
+            Orders = new List<Order>();
         }
     }
 }
