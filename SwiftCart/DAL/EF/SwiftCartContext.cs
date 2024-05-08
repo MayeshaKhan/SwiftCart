@@ -21,7 +21,8 @@ namespace DAL.EF
 
         public DbSet<ProductOrder> ProductOrders { get; set; }
         public DbSet<BranchProduct> BranchProducts { get; set; }
-
-
+        public DbSet<Admin> Admins { get; set; }
+        
     }
+
 }

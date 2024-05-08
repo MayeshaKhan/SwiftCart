@@ -52,6 +52,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="DataFactory.cs" />
+    <Compile Include="EF\Models\Admin.cs" />
     <Compile Include="EF\Models\Agent.cs" />
     <Compile Include="EF\Models\Branch.cs" />
     <Compile Include="EF\Models\BranchProduct.cs" />
@@ -71,6 +72,30 @@
     <Compile Include="Migrations\202404270719310_data.designer.cs">
       <DependentUpon>202404270719310_data.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202405080633066_dbCompleted.cs" />
+    <Compile Include="Migrations\202405080633066_dbCompleted.designer.cs">
+      <DependentUpon>202405080633066_dbCompleted.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405081418243_categoryProductSeed.cs" />
+    <Compile Include="Migrations\202405081418243_categoryProductSeed.designer.cs">
+      <DependentUpon>202405081418243_categoryProductSeed.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405081425134_productUpdate.cs" />
+    <Compile Include="Migrations\202405081425134_productUpdate.designer.cs">
+      <DependentUpon>202405081425134_productUpdate.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405081656035_AddBranchProductData.cs" />
+    <Compile Include="Migrations\202405081656035_AddBranchProductData.designer.cs">
+      <DependentUpon>202405081656035_AddBranchProductData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405081714388_AddAllUsersData.cs" />
+    <Compile Include="Migrations\202405081714388_AddAllUsersData.designer.cs">
+      <DependentUpon>202405081714388_AddAllUsersData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\202405081720120_AddBranchProductData1.cs" />
+    <Compile Include="Migrations\202405081720120_AddBranchProductData1.designer.cs">
+      <DependentUpon>202405081720120_AddBranchProductData1.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\AgentRepo.cs" />
@@ -87,6 +112,24 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202404270719310_data.resx">
       <DependentUpon>202404270719310_data.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405080633066_dbCompleted.resx">
+      <DependentUpon>202405080633066_dbCompleted.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405081418243_categoryProductSeed.resx">
+      <DependentUpon>202405081418243_categoryProductSeed.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405081425134_productUpdate.resx">
+      <DependentUpon>202405081425134_productUpdate.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405081656035_AddBranchProductData.resx">
+      <DependentUpon>202405081656035_AddBranchProductData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405081714388_AddAllUsersData.resx">
+      <DependentUpon>202405081714388_AddAllUsersData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405081720120_AddBranchProductData1.resx">
+      <DependentUpon>202405081720120_AddBranchProductData1.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

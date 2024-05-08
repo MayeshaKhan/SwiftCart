@@ -14,7 +14,7 @@ namespace DAL.EF.Models
         [Required]
         public string Status { get; set; }
         [Required]
-        public string Total_price { get; set; }
+        public int Total_price { get; set; }
         [Required]
         public DateTime Order_datetime { get; set; }
         

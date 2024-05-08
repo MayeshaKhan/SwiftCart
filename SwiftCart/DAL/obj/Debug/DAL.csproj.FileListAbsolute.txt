@@ -13,3 +13,24 @@ C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.csp
 C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.Migrations.initDB.resources
 C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
 C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.Migrations.data.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.initDB.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.data.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.dll
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.pdb
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\bin\Debug\DAL.dll.config
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\bin\Debug\DAL.dll
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\bin\Debug\DAL.pdb
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.dbCompleted.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.categoryProductSeed.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.productUpdate.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.AddBranchProductData.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.AddAllUsersData.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.AddBranchProductData1.resources
