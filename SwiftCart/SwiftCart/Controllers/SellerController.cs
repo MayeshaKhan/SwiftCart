@@ -9,45 +9,45 @@ using System.Web.Http;
 
 namespace SwiftCart.Controllers
 {
-    public class BranchController : ApiController
-    {   
+    public class SellerController : ApiController
+    {
         [HttpPost]
-        [Route("api/branch/create")]
-        public HttpResponseMessage Create(BranchDTO b)
+        [Route("api/seller/create")]
+        public HttpResponseMessage Create(SellerDTO b)
         {
-            BranchService.Create(b);
+            SellerService.Create(b);
             return Request.CreateResponse(HttpStatusCode.OK);
 
         }
         [HttpGet]
-        [Route("api/branch/{id}")]
+        [Route("api/seller/{id}")]
         public HttpResponseMessage Get(int id)
         {
-            var data = BranchService.Get(id);
+            var data = SellerService.Get(id);
             return Request.CreateResponse(HttpStatusCode.OK, data);
         }
         [HttpGet]
-        [Route("api/branch/all")]
+        [Route("api/seller/all")]
         public HttpResponseMessage Get()
         {
-            var data = BranchService.Get();
+            var data = SellerService.Get();
             return Request.CreateResponse(HttpStatusCode.OK, data);
         }
         [HttpPut]
-        [Route("api/branch/update")]
-        public HttpResponseMessage Update( BranchDTO b)
+        [Route("api/seller/update")]
+        public HttpResponseMessage Update(SellerDTO b)
         {
-            BranchService.Update(b);
+            SellerService.Update(b);
             return Request.CreateResponse(HttpStatusCode.OK);
         }
 
         [HttpDelete]
-        [Route("api/branch/delete/{id}")]
+        [Route("api/seller/delete/{id}")]
         public HttpResponseMessage Delete(int id)
         {
-             BranchService.Delete(id);
+            SellerService.Delete(id);
 
-             return Request.CreateResponse(HttpStatusCode.OK);
+            return Request.CreateResponse(HttpStatusCode.OK);
         }
 
     }

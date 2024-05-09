@@ -100,7 +100,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\AgentRepo.cs" />
     <Compile Include="Repos\BranchRepo.cs" />
+    <Compile Include="Repos\CategoryRepo.cs" />
+    <Compile Include="Repos\CustomerRepo.cs" />
+    <Compile Include="Repos\OrderRepo.cs" />
+    <Compile Include="Repos\ProductRepo.cs" />
     <Compile Include="Repos\Repo.cs" />
+    <Compile Include="Repos\SellerRepo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

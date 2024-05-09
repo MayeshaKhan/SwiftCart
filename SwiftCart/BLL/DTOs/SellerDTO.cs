@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BLL.DTOs
 {
-    public class AgentDTO
+    public class SellerDTO
     {
         public int  Id { get; set; }
         public string Name { get; set; }
@@ -14,6 +14,6 @@ namespace BLL.DTOs
         public string Username { get; set; }
 
         public string Password { get; set; }
-        public int BId { get; set; }
+        
     }
 }

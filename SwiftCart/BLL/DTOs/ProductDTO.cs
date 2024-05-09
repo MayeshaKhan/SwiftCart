@@ -6,14 +6,18 @@ using System.Threading.Tasks;
 
 namespace BLL.DTOs
 {
-    public class AgentDTO
+   public class ProductDTO
     {
-        public int  Id { get; set; }
+        public int Id { get; set; }
         public string Name { get; set; }
+        public float Price { get; set; }
 
-        public string Username { get; set; }
+        public int Category_Id { get; set; }
 
-        public string Password { get; set; }
-        public int BId { get; set; }
+
+
+
+
+
     }
 }
