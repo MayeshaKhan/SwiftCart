@@ -12,3 +12,17 @@ C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\BLL\bin\Debug\EntityF
 C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\BLL\bin\Debug\DAL.dll.config
 C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\BLL\bin\Debug\AutoMapper.xml
 C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\BLL\bin\Debug\EntityFramework.xml
+E:\mk\dotnet\SwiftCart\SwiftCart\BLL\bin\Debug\BLL.dll
+E:\mk\dotnet\SwiftCart\SwiftCart\BLL\bin\Debug\BLL.pdb
+E:\mk\dotnet\SwiftCart\SwiftCart\BLL\bin\Debug\AutoMapper.dll
+E:\mk\dotnet\SwiftCart\SwiftCart\BLL\bin\Debug\DAL.dll
+E:\mk\dotnet\SwiftCart\SwiftCart\BLL\bin\Debug\EntityFramework.dll
+E:\mk\dotnet\SwiftCart\SwiftCart\BLL\bin\Debug\DAL.pdb
+E:\mk\dotnet\SwiftCart\SwiftCart\BLL\bin\Debug\DAL.dll.config
+E:\mk\dotnet\SwiftCart\SwiftCart\BLL\bin\Debug\AutoMapper.xml
+E:\mk\dotnet\SwiftCart\SwiftCart\BLL\bin\Debug\EntityFramework.xml
+E:\mk\dotnet\SwiftCart\SwiftCart\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\mk\dotnet\SwiftCart\SwiftCart\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\mk\dotnet\SwiftCart\SwiftCart\BLL\obj\Debug\BLL.csproj.CopyComplete
+E:\mk\dotnet\SwiftCart\SwiftCart\BLL\obj\Debug\BLL.dll
+E:\mk\dotnet\SwiftCart\SwiftCart\BLL\obj\Debug\BLL.pdb

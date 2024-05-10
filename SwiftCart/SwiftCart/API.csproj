@@ -93,7 +93,6 @@
   <ItemGroup>
     <Compile Include="App_Start\WebApiConfig.cs" />
     <Compile Include="Auth\CustomAuthorizationFilter.cs" />
-    <Compile Include="Auth\CustomAuthorizeAttribute.cs" />
     <Compile Include="Controllers\AgentController.cs" />
     <Compile Include="Controllers\AuthController.cs" />
     <Compile Include="Controllers\BranchController.cs" />

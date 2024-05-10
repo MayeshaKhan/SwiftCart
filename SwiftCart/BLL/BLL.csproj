@@ -46,6 +46,7 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="DTOs\CustomerDTO.cs" />
+    <Compile Include="DTOs\ProfileDTO.cs" />
     <Compile Include="DTOs\SellerDTO.cs" />
     <Compile Include="DTOs\AgentDTO.cs" />
     <Compile Include="DTOs\ProductDTO.cs" />

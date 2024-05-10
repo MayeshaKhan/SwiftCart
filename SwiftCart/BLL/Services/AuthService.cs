@@ -82,5 +82,53 @@ namespace BLL.Services
             }
             return null;
         }
+        public static ProfileDTO GetProfile(int UserId, string UserRole)
+        {
+            if (UserRole.Equals("Admin"))
+            {
+                var adminObj = DataFactory.AdminData().Get(UserId);
+                return new ProfileDTO
+                {
+                    Id = adminObj.Id,
+                    Name = adminObj.Name,
+                    Username = adminObj.Username,
+                    UserRole = UserRole
+                };
+            }
+            if (UserRole.Equals("Agent"))
+            {
+                var agentObj = DataFactory.AgentData().Get(UserId);
+                return new ProfileDTO
+                {
+                    Id = agentObj.Id,
+                    Name = agentObj.Name,
+                    Username = agentObj.Username,
+                    UserRole = UserRole
+                };
+            }
+            if (UserRole.Equals("Seller"))
+            {
+                var sellerObj = DataFactory.SellerData().Get(UserId);
+                return new ProfileDTO
+                {
+                    Id = sellerObj.Id,
+                    Name = sellerObj.Name,
+                    Username = sellerObj.Username,
+                    UserRole = UserRole
+                };
+            }
+            if (UserRole.Equals("Customer"))
+            {
+                var customerObj = DataFactory.CustomerData().Get(UserId);
+                return new ProfileDTO
+                {
+                    Id = customerObj.Id,
+                    Name = customerObj.Name,
+                    Username = customerObj.Username,
+                    UserRole = UserRole
+                };
+            }
+            return null;
+        }
     }
 }
