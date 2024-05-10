@@ -11,6 +11,10 @@ namespace DAL
 {
     public class DataFactory
     {
+        public static IRepo<Admin, int, bool> AdminData()
+        {
+            return new AdminRepo();
+        }
         public static IRepo<Agent, int, bool> AgentData()
         {
             return new AgentRepo();
@@ -42,7 +46,10 @@ namespace DAL
         {
             return new SellerRepo();
         }
-
+        public static IRepo<Token, int, bool> TokenData()
+        {
+            return new TokenRepo();
+        }
 
 
     }

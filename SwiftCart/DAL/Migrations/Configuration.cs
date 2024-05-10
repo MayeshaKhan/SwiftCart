@@ -42,7 +42,7 @@
                 });
 
             }*/
-            Random random = new Random();
+           /* Random random = new Random();
             for (int i = 1; i <= 5; i++)
             {
 
@@ -54,7 +54,7 @@
                     Product_Id = random.Next(1, 11)
 
                 });
-            }
+            }*/
             
 
             /*context.Admins.AddOrUpdate(new EF.Models.Admin
