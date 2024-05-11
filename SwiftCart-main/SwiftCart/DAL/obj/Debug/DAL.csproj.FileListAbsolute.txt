@@ -1,0 +1,120 @@
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\bin\Debug\DAL.dll
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\bin\Debug\DAL.pdb
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.dll
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.pdb
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\bin\Debug\DAL.dll.config
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\bin\Debug\EntityFramework.dll
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\bin\Debug\EntityFramework.xml
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.Migrations.initDB.resources
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Semester 12\.Net\Projects\SwiftCart\DAL\obj\Debug\DAL.Migrations.data.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.initDB.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.data.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.dll
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.pdb
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\bin\Debug\DAL.dll.config
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\bin\Debug\DAL.dll
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\bin\Debug\DAL.pdb
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.dbCompleted.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.categoryProductSeed.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.productUpdate.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.AddBranchProductData.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.AddAllUsersData.resources
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\DAL\obj\Debug\DAL.Migrations.AddBranchProductData1.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\bin\Debug\DAL.dll.config
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\bin\Debug\DAL.dll
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\bin\Debug\DAL.pdb
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.initDB.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.data.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.dbCompleted.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.categoryProductSeed.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.productUpdate.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.AddBranchProductData.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.AddAllUsersData.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.AddBranchProductData1.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.dll
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.pdb
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.lg.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.newlogin.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.token.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.seedproduct.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.seed2.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.seed3.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.seed4.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.ss.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.update.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.order.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.poder.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.pp.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.newpo.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.xyz.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.productorder.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.new12.resources
+C:\Users\ONE\Desktop\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.new1234.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\bin\Debug\DAL.dll.config
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\bin\Debug\DAL.dll
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\bin\Debug\DAL.pdb
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\bin\Debug\EntityFramework.dll
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\bin\Debug\EntityFramework.xml
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.initDB.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.data.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.dbCompleted.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.categoryProductSeed.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.productUpdate.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.AddBranchProductData.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.AddAllUsersData.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.AddBranchProductData1.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.newlogin.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.token.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.seedproduct.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.seed2.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.seed3.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.seed4.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.ss.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.update.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.order.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.poder.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.pp.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.newpo.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.xyz.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.productorder.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.new12.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.new1234.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.csproj.GenerateResource.cache
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.dll
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.pdb
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.NewMigrationName.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.newpr.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.ordermethod.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.qwer.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.aaaa.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.bbbb.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.ddd.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.method.resources
+C:\Users\ONE\Desktop\dn\SwiftCart-main\SwiftCart\DAL\obj\Debug\DAL.Migrations.fff.resources
