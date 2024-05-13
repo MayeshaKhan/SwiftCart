@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\SwiftCart",
+    "\\SwiftCart\\DAL",
+    "\\SwiftCart\\DAL\\Migrations",
+    "\\SwiftCart\\SwiftCart",
+    "\\SwiftCart\\SwiftCart\\Controllers"
+  ],
+  "SelectedNode": "\\SwiftCart\\SwiftCart\\Controllers\\ProductController.cs",
+  "PreviewInSolutionExplorer": false
+}
