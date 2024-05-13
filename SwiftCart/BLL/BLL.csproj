@@ -46,7 +46,9 @@
   <ItemGroup>
     <Compile Include="Class1.cs" />
     <Compile Include="DTOs\CustomerDTO.cs" />
+    <Compile Include="DTOs\FaqDTO.cs" />
     <Compile Include="DTOs\ProfileDTO.cs" />
+    <Compile Include="DTOs\ReviewDTO.cs" />
     <Compile Include="DTOs\SellerDTO.cs" />
     <Compile Include="DTOs\AgentDTO.cs" />
     <Compile Include="DTOs\ProductDTO.cs" />
@@ -59,6 +61,7 @@
     <Compile Include="Services\BranchService.cs" />
     <Compile Include="Services\CategoryService.cs" />
     <Compile Include="Services\CustomerService.cs" />
+    <Compile Include="Services\FAQService.cs" />
     <Compile Include="Services\ProductService.cs" />
     <Compile Include="Services\SellerService.cs" />
   </ItemGroup>

@@ -24,10 +24,16 @@ namespace DAL.EF.Models
         public virtual List<ProductOrder> ProductOrders { get; set; }
 
         public virtual List<BranchProduct> BranchProducts{ get; set; }
+
+        public virtual List<Review> Reviews { get; set; }
         public Product()
         {
             ProductOrders = new List<ProductOrder>();
             BranchProducts = new List<BranchProduct>();
+            Reviews = new List<Review>();
+
+
+            
 
         }
     }

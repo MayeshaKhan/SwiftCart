@@ -26,3 +26,17 @@ E:\mk\dotnet\SwiftCart\SwiftCart\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cach
 E:\mk\dotnet\SwiftCart\SwiftCart\BLL\obj\Debug\BLL.csproj.CopyComplete
 E:\mk\dotnet\SwiftCart\SwiftCart\BLL\obj\Debug\BLL.dll
 E:\mk\dotnet\SwiftCart\SwiftCart\BLL\obj\Debug\BLL.pdb
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\BLL\bin\Debug\BLL.dll
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\BLL\bin\Debug\BLL.pdb
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\BLL\bin\Debug\AutoMapper.dll
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\BLL\bin\Debug\DAL.dll
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\BLL\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\BLL\bin\Debug\DAL.pdb
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\BLL\bin\Debug\DAL.dll.config
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\BLL\bin\Debug\AutoMapper.xml
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\BLL\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\BLL\obj\Debug\BLL.dll
+C:\Users\admin\Documents\GitHub\SwiftCart\SwiftCart\BLL\obj\Debug\BLL.pdb

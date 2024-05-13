@@ -58,7 +58,9 @@ namespace BLL.Services
             }
             //for agent
             var agentObj = DataFactory.AgentData().Get()
-                .Where(x => x.Username.Equals(username) && x.Password.Equals(password))
+                //.Where(x => x.Username.Equals(username) && x.Password.Equals(password))
+               .Where( x => x.Username != null && x.Password != null && x.Username.Equals(username) && x.Password.Equals(password))
+
                 .SingleOrDefault();
             if(agentObj != null )
             {
@@ -127,6 +129,16 @@ namespace BLL.Services
                     Username = customerObj.Username,
                     UserRole = UserRole
                 };
+            }
+            return null;
+        }
+        public static TokenDTO Logout(string tokenString)
+        {
+            Token obj = DataFactory.TokenData().Get().Where(tk => tk.TokenString == tokenString).SingleOrDefault();
+            if (obj != null)
+            {
+                obj.ExpireTime = DateTime.Now;
+                DataFactory.TokenData().Update(obj);
             }
             return null;
         }

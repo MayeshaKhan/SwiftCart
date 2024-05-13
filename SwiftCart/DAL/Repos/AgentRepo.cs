@@ -10,10 +10,10 @@ namespace DAL.Repos
 {
     internal class AgentRepo : Repo, IRepo<Agent, int, bool>
     {
-        public void Create(Agent obj)
+        public bool Create(Agent obj)
         {
             db.Agents.Add(obj);
-            db.SaveChanges();
+            return db.SaveChanges() > 0;
         }
 
         

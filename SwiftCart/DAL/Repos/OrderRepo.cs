@@ -11,10 +11,10 @@ namespace DAL.Repos
     internal class OrderRepo : Repo, IRepo<Order,int,bool> 
 
     {
-        public void Create(Order obj)
+        public bool Create(Order obj)
         {
             db.Orders.Add(obj);
-            db.SaveChanges();
+            return db.SaveChanges() > 0;
         }
 
 

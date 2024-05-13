@@ -1,4 +1,5 @@
-﻿using BLL.Services;
+﻿using BLL.DTOs;
+using BLL.Services;
 using SwiftCart.Auth;
 using SwiftCart.DTO;
 using System;
@@ -48,6 +49,25 @@ namespace SwiftCart.Controllers
                 return Request.CreateResponse(HttpStatusCode.NotFound, "Profile Not Found");
             }
             return Request.CreateResponse(HttpStatusCode.OK, profileData);
+        }
+
+        [HttpPost]
+        [Route("logout")]
+        public HttpResponseMessage Logout(TokenDTO t)
+        {
+            try
+            {
+                var tokenObj = AuthService.Logout(t.TokenString );
+                if (tokenObj == null)
+                {
+                    return Request.CreateErrorResponse(HttpStatusCode.NotFound, "Invalid Credential");
+                }
+                return Request.CreateResponse(HttpStatusCode.OK, tokenObj);
+            }
+            catch (Exception ex)
+            {
+                return Request.CreateResponse(HttpStatusCode.InternalServerError, ex.Message);
+            }
         }
     }
 }

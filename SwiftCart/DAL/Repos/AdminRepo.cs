@@ -10,10 +10,10 @@ namespace DAL.Repos
 {
     internal class AdminRepo : Repo, IRepo<Admin, int, bool>
     {
-        public void Create(Admin obj)
+        public bool Create(Admin obj)
         {
             db.Admins.Add(obj);
-            db.SaveChanges();
+            return db.SaveChanges() > 0;
         }
 
 

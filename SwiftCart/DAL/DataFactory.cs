@@ -51,6 +51,11 @@ namespace DAL
             return new TokenRepo();
         }
 
+        public static IRepo<FAQ, int, bool> FAQData()
+        {
+            return new FAQRepo();
+        }
+
 
     }
 }

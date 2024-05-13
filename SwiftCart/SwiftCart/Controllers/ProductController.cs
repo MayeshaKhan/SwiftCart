@@ -1,5 +1,6 @@
 ﻿using BLL.DTOs;
 using BLL.Services;
+using SwiftCart.Auth;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,9 @@ using System.Web.Http;
 
 namespace SwiftCart.Controllers
 {
+    [CustomAuthorizationFilter]
+    [Authorize(Roles = "Agent, Seller")]
+
     public class ProductController : ApiController
     {
             [HttpPost]

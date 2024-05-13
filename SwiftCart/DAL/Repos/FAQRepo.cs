@@ -8,11 +8,11 @@ using System.Threading.Tasks;
 
 namespace DAL.Repos
 {
-    internal class CategoryRepo : Repo, IRepo<Category, int, bool>
+    internal class FAQRepo : Repo, IRepo<FAQ, int, bool>
     {
-        public bool Create(Category obj)
+        public bool Create(FAQ obj)
         {
-            db.Categories.Add(obj);
+            db.FAQs.Add(obj);
             return db.SaveChanges() > 0;
         }
 
@@ -20,26 +20,30 @@ namespace DAL.Repos
         public bool Delete(int id)
         {
             var exobj = Get(id);
-            db.Categories.Remove(exobj);
+            db.FAQs.Remove(exobj);
             return db.SaveChanges() > 0;
         }
 
-        public Category Get(int id)
+        public FAQ Get(int id)
         {
-            return db.Categories.Find(id);
+            return db.FAQs.Find(id);
         }
 
-        public List<Category> Get()
+        public List<FAQ> Get()
         {
-            return db.Categories.ToList();
+            return db.FAQs.ToList();
         }
 
-        public bool Update(Category obj)
+        public bool Update(FAQ obj)
         {
             var exobj = Get(obj.Id);
-            db.Entry(exobj).CurrentValues.SetValues(obj);
+            if (exobj != null)
+            {
+                db.Entry(exobj).CurrentValues.SetValues(obj);
+            }
             return db.SaveChanges() > 0;
         }
+
 
     }
 }

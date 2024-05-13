@@ -23,9 +23,6 @@ namespace DAL.EF.Models
         public int BId { get; set; }
         public virtual Branch Branch { get; set; }
 
-        /*[ForeignKey("Admin")]
-        public int Admin_id { get; set; }
-        public virtual Admin Admin { get; set; }
-    }*/
+       
     }
 }

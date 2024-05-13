@@ -42,20 +42,20 @@
                 });
 
             }*/
-           /* Random random = new Random();
-            for (int i = 1; i <= 5; i++)
-            {
+            /* Random random = new Random();
+             for (int i = 1; i <= 5; i++)
+             {
 
-                context.BranchProducts.AddOrUpdate(new EF.Models.BranchProduct
-                {
-                    Id = i,
-                    Quantity = random.Next(10, 600),
-                    Branch_Id = random.Next(1, 5),
-                    Product_Id = random.Next(1, 11)
+                 context.BranchProducts.AddOrUpdate(new EF.Models.BranchProduct
+                 {
+                     Id = i,
+                     Quantity = random.Next(10, 600),
+                     Branch_Id = random.Next(1, 5),
+                     Product_Id = random.Next(1, 11)
 
-                });
-            }*/
-            
+                 });
+             }*/
+
 
             /*context.Admins.AddOrUpdate(new EF.Models.Admin
             {
@@ -105,6 +105,18 @@
 
 
             });*/
+
+            context.FAQs.AddOrUpdate(new EF.Models.FAQ
+            {
+                Id = 1,
+                Question = "Delivery Charge?",
+                Answer = "Inside dhaka 60 taka, Outside dhaka 120 tk",
+
+
+
+            });
+
+
         }
 
 

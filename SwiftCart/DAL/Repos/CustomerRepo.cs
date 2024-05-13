@@ -10,10 +10,10 @@ namespace DAL.Repos
 {
     internal class CustomerRepo : Repo, IRepo<Customer, int, bool>
     {
-        public void Create(Customer obj)
+        public bool Create(Customer obj)
         {
             db.Customers.Add(obj);
-            db.SaveChanges();
+            return db.SaveChanges() > 0;
         }
 
 

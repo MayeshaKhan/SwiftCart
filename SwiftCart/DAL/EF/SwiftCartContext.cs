@@ -23,7 +23,13 @@ namespace DAL.EF
         public DbSet<BranchProduct> BranchProducts { get; set; }
         public DbSet<Admin> Admins { get; set; }
         public DbSet<Token> Tokens { get; set; }
-        
+
+        public DbSet<FAQ> FAQs { get; set; }
+
+        public DbSet<Review> Reviews { get; set; }
+
+
+
     }
 
 }

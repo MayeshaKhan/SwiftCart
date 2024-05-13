@@ -10,10 +10,10 @@ namespace DAL.Repos
 {
     internal class ProductRepo : Repo, IRepo<Product, int, bool>
     {
-        public void Create(Product obj)
+        public bool Create(Product obj)
         {
             db.Products.Add(obj);
-            db.SaveChanges();
+            return db.SaveChanges() > 0;
         }
         public Product Get(int id)
         {

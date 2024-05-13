@@ -10,10 +10,10 @@ namespace DAL.Repos
 {
     internal class SellerRepo : Repo, IRepo<Seller, int, bool>
     {
-        public void Create(Seller obj)
+        public bool Create(Seller obj)
         {
             db.Sellers.Add(obj);
-            db.SaveChanges();
+            return db.SaveChanges() > 0;
         }
 
 

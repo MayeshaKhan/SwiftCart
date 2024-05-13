@@ -10,10 +10,10 @@ namespace DAL.Repos
 {
     public class TokenRepo : Repo, IRepo<Token, int, bool>
     {
-        public void Create(Token obj)
+        public bool Create(Token obj)
         {
             db.Tokens.Add(obj);
-            db.SaveChanges();
+            return db.SaveChanges() > 0;
         }
 
         public bool Delete(int id)

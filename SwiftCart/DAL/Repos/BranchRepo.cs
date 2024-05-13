@@ -10,10 +10,10 @@ namespace DAL.Repos
 {
     internal class BranchRepo : Repo, IRepo<Branch, int, bool>
     {
-        public void Create(Branch obj)
+        public bool Create(Branch obj)
         {
             db.Branches.Add(obj);
-            db.SaveChanges();
+            return db.SaveChanges() > 0;
         }
 
 

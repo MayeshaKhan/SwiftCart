@@ -20,12 +20,14 @@ namespace DAL.EF.Models
         public string Password { get; set; }
 
         public virtual List<Order> Orders { get; set; }
+        public virtual List<Review> Reviews { get; set; }
 
 
-        
+
         public Customer()
         {
             Orders = new List<Order>();
+            Reviews = new List<Review>();
         }
     }
 }
