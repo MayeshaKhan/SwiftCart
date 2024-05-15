@@ -111,13 +111,19 @@
     <Compile Include="Migrations\202405111429392_Reviewdb.designer.cs">
       <DependentUpon>202405111429392_Reviewdb.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202405142044479_order_seller_id_nullable.cs" />
+    <Compile Include="Migrations\202405142044479_order_seller_id_nullable.designer.cs">
+      <DependentUpon>202405142044479_order_seller_id_nullable.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repos\AdminRepo.cs" />
     <Compile Include="Repos\AgentRepo.cs" />
+    <Compile Include="Repos\BranchProductRepo.cs" />
     <Compile Include="Repos\BranchRepo.cs" />
     <Compile Include="Repos\CategoryRepo.cs" />
     <Compile Include="Repos\CustomerRepo.cs" />
+    <Compile Include="Repos\ReviewRepo.cs" />
     <Compile Include="Repos\FAQRepo.cs" />
     <Compile Include="Repos\OrderRepo.cs" />
     <Compile Include="Repos\ProductRepo.cs" />
@@ -162,6 +168,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202405111429392_Reviewdb.resx">
       <DependentUpon>202405111429392_Reviewdb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202405142044479_order_seller_id_nullable.resx">
+      <DependentUpon>202405142044479_order_seller_id_nullable.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -47,6 +47,7 @@ namespace SwiftCart.Auth
                     var identity = new GenericIdentity(tokenObj.UserId.ToString());
                     identity.AddClaim(new Claim("ID", Convert.ToString(tokenObj.UserId)));
                     identity.AddClaim(new Claim("UserRole", Convert.ToString(tokenObj.UserRole)));
+                    identity.AddClaim(new Claim("TokenString", Convert.ToString(tokenObj.TokenString)));
                     var roles = new string[] { tokenObj.UserRole };
                     var principal = new GenericPrincipal(identity, roles);
                     Thread.CurrentPrincipal = principal;

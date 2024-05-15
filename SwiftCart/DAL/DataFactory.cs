@@ -23,6 +23,10 @@ namespace DAL
         {
             return new BranchRepo();
         }
+        public static IRepo<BranchProduct, int, bool> BranchProductData()
+        {
+            return new BranchProductRepo();
+        }
 
         public static IRepo<Category, int, bool> CategoryData()
         {
@@ -54,6 +58,10 @@ namespace DAL
         public static IRepo<FAQ, int, bool> FAQData()
         {
             return new FAQRepo();
+        }
+        public static IRepo<Review, int, bool> ReviewData()
+        {
+            return new ReviewRepo();
         }
 
 

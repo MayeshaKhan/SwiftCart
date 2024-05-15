@@ -23,7 +23,7 @@ namespace DAL.EF.Models
         public virtual Customer Customer { get; set; }
        
         [ForeignKey("Seller")]
-        public int Seller_id { get; set;}
+        public int? Seller_id { get; set;}
         public virtual Seller Seller { get; set; }
        
         public int Branch_id { get; set;}

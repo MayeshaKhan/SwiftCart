@@ -4,6 +4,7 @@ using DAL;
 using DAL.EF.Models;
 using System;
 using System.Collections.Generic;
+using System.Data;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -132,15 +133,92 @@ namespace BLL.Services
             }
             return null;
         }
-        public static TokenDTO Logout(string tokenString)
+        public static bool Logout(string tokenString)
         {
             Token obj = DataFactory.TokenData().Get().Where(tk => tk.TokenString == tokenString).SingleOrDefault();
-            if (obj != null)
+            if (obj == null)
             {
-                obj.ExpireTime = DateTime.Now;
-                DataFactory.TokenData().Update(obj);
+                return false;
             }
-            return null;
+            return DataFactory.TokenData().Delete(obj.Id);
+        }
+
+        public static bool UpdateProfile(int Id, string Role, updateProfileDTO obj)
+        {
+            if (Role.Equals("Admin"))
+            {
+                var adminObj = DataFactory.AdminData().Get(Id);
+                if (adminObj == null) { return  false; }
+                // updating profile
+                adminObj.Name = obj.Name;
+                adminObj.Username = obj.Username;
+                return DataFactory.AdminData().Update(adminObj);
+            }
+            if (Role.Equals("Agent"))
+            {
+                var agentObj = DataFactory.AgentData().Get(Id);
+                if (agentObj == null) { return  false; }
+                // updating profile
+                agentObj.Name = obj.Name;
+                agentObj.Username = obj.Username;
+                return DataFactory.AgentData().Update(agentObj);
+            }
+            if (Role.Equals("Seller"))
+            {
+                var sellerObj = DataFactory.SellerData().Get(Id);
+                if (sellerObj == null) { return  false; }
+                // updating profile
+                sellerObj.Name = obj.Name;
+                sellerObj.Username = obj.Username;
+                return DataFactory.SellerData().Update(sellerObj);
+            }
+            if (Role.Equals("Customer"))
+            {
+                var customerObj = DataFactory.CustomerData().Get(Id);
+                if (customerObj == null) { return  false; }
+                // updating profile
+                customerObj.Name = obj.Name;
+                customerObj.Username = obj.Username;
+                return DataFactory.CustomerData().Update(customerObj);
+            }
+            return false;
+        }
+
+        public static bool ChangePassword(int Id, string Role, ChangePasswordDTO obj)
+        {
+            if (Role.Equals("Admin"))
+            {
+                var adminObj = DataFactory.AdminData().Get(Id);
+                if (adminObj == null || adminObj.Password != obj.OldPassword) { return false; }
+                // updating password
+                adminObj.Password = obj.NewPassword;
+                return DataFactory.AdminData().Update(adminObj);
+            }
+            if (Role.Equals("Agent"))
+            {
+                var agentObj = DataFactory.AgentData().Get(Id);
+                if (agentObj == null || agentObj.Password != obj.OldPassword) { return false; }
+                // updating password
+                agentObj.Password = obj.NewPassword;
+                return DataFactory.AgentData().Update(agentObj);
+            }
+            if (Role.Equals("Seller"))
+            {
+                var sellerObj = DataFactory.SellerData().Get(Id);
+                if (sellerObj == null || sellerObj.Password != obj.OldPassword) { return false; }
+                // updating password
+                sellerObj.Password = obj.NewPassword;
+                return DataFactory.SellerData().Update(sellerObj);
+            }
+            if (Role.Equals("Customer"))
+            {
+                var customerObj = DataFactory.CustomerData().Get(Id);
+                if (customerObj == null || customerObj.Password != obj.OldPassword) { return false; }
+                // updating password
+                customerObj.Password = obj.NewPassword;
+                return DataFactory.CustomerData().Update(customerObj);
+            }
+            return false;
         }
     }
 }
